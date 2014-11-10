@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-fisrt github project
+first github project. Learning to use github.
